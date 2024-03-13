@@ -3,7 +3,7 @@ Eu sou Mauricio Gonçalves
 
 Desenvolvedor
 
-Cursando Web Full Stack Noturno pela Labenu
+Cursando Analise e Desenvolvimento de Sistema pela Unisul
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauriciorg89&show_icons=true&theme=gruvbox"/>  
  </div>
